@@ -132,7 +132,8 @@
 }
 
 .slide__element--temp {
-	font-size: 8em;
+	font-size: 8.5em;
+    font-family: Georgia;
 	font-weight: 700;
 	margin: 0 0 0.1em;
 }
